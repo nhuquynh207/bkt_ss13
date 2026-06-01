@@ -71,4 +71,3 @@ Nhập lựa chọn (1-5):                   """)
 
         case _:
             print("Lựa chọn không hợp lệ!")
-            break
