@@ -68,3 +68,7 @@ Nhập lựa chọn (1-5):                   """)
         case '5':
             print("Đã thoát chương trình. Tạm biệt!")
             break
+
+        case _:
+            print("Lựa chọn không hợp lệ!")
+            break
